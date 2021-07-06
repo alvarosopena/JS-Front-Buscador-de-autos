@@ -1,0 +1,1 @@
+Un buscador de multiples campos, HTML, CSS y JS funciones encadenadas, con DB basica solo en js
